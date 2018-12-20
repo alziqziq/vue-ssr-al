@@ -1,0 +1,11 @@
+@import './vendor/normalize.css';
+@import './vendor/bootstrap.min.css';
+@import './_font.scss';
+
+* {
+  font-family: OpenSans-Regular, Arial, Helvetica, sans-serif !important;
+}
+
+body {
+  font-size: 13px;
+}
